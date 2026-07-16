@@ -288,29 +288,23 @@ Toda la lógica de manejo de conexiones (DriverManager, Connection, Statement, R
 
 ### Imagen 1. Base de datos creada
 
-*(Captura de pgAdmin mostrando la base de datos `actividad_jdbc`.)*
+<img width="273" height="247" alt="image" src="https://github.com/user-attachments/assets/3088f916-e1e0-4215-b11b-da5ffd439aad" />
 
 ### Imagen 2. Tabla pacientes
 
-*(Captura de la tabla `pacientes` con los registros insertados.)*
+<img width="737" height="362" alt="image" src="https://github.com/user-attachments/assets/8550b5ef-e59e-4dad-be9e-586a65e46ba3" />
 
 ### Imagen 3. Configuración del proyecto
 
-*(Captura de Visual Studio Code mostrando el proyecto y el driver JDBC.)*
+<img width="430" height="665" alt="image" src="https://github.com/user-attachments/assets/17ce1626-b3be-48e1-b127-e938cc1fabed" />
 
-### Imagen 4. Conexión exitosa
+### Imagen 4. Resumen hospitalario
 
-*(Captura de la consola indicando que la conexión se estableció correctamente.)*
+<img width="906" height="427" alt="image" src="https://github.com/user-attachments/assets/ba92d470-f925-4090-bd58-3cb62795834a" />
 
-### Imagen 5. Consulta realizada
+### Imagen 5. Validación de compilación:
 
-*(Captura del listado de pacientes obtenido mediante `ResultSet`.)*
-
-### Imagen 6. Resumen hospitalario
-
-*(Captura mostrando el total de pacientes consultados.)*
-
-### Imagen 7. Validación de compilación:
+<img width="895" height="836" alt="image" src="https://github.com/user-attachments/assets/a22420e6-4a86-4989-8093-72cb7c4205b9" />
 
 
 
