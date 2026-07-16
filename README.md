@@ -307,7 +307,7 @@ Toda la lógica de manejo de conexiones (DriverManager, Connection, Statement, R
 ### Imagen 5. Análisis del Código Fuente
 
 <img width="1351" height="935" alt="image" src="https://github.com/user-attachments/assets/17b830b8-b1fe-48b2-9e49-7767c5448ef9" />
-Implementación de conexión JDBC con try-with-resources para el acceso seguro a la tabla de pacientes.
+## Implementación de conexión JDBC con try-with-resources para el acceso seguro a la tabla de pacientes.
 
 ### Imagen 6. Resumen hospitalario
 
@@ -316,7 +316,8 @@ Implementación de conexión JDBC con try-with-resources para el acceso seguro a
 ### Imagen 7. Validación de compilación:
 
 <img width="895" height="836" alt="image" src="https://github.com/user-attachments/assets/a22420e6-4a86-4989-8093-72cb7c4205b9" />
-Se observa la compilación exitosa del proyecto mediante Maven, confirmando que las dependencias JDBC están correctamente configuradas y el código fuente no presenta errores de sintaxis
+
+## Se observa la compilación exitosa del proyecto mediante Maven, confirmando que las dependencias JDBC están correctamente configuradas y el código fuente no presenta errores de sintaxis
 
 
 ## Conclusión
