@@ -307,6 +307,7 @@ Toda la lógica de manejo de conexiones (DriverManager, Connection, Statement, R
 ### Imagen 5. Análisis del Código Fuente
 
 <img width="1351" height="935" alt="image" src="https://github.com/user-attachments/assets/17b830b8-b1fe-48b2-9e49-7767c5448ef9" />
+
 Implementación de conexión JDBC con try-with-resources para el acceso seguro a la tabla de pacientes.
 
 ### Imagen 6. Resumen hospitalario
