@@ -321,6 +321,7 @@ Implementación de conexión JDBC con try-with-resources para el acceso seguro a
 Se observa la compilación exitosa del proyecto mediante Maven, confirmando que las dependencias JDBC están correctamente configuradas y el código fuente no presenta errores de sintaxis
 
 
+
 ## Conclusión
 
 Este proyecto demuestra el funcionamiento de JDBC como mecanismo estándar para conectar aplicaciones Java con bases de datos relacionales. Mediante el uso de las clases `DriverManager`, `Connection`, `Statement` y `ResultSet`, fue posible establecer una conexión con PostgreSQL, ejecutar consultas SQL y recuperar información de manera estructurada.
